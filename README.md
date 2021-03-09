@@ -28,3 +28,4 @@ to initialise the project, and follow the prompts to play the guessing game.
 
 ## Change log
 08/03/2021 - first draft uploaded to github.
+09/03/2021 - fixed indentation, added some extra comments, renamed variables for clarity
