@@ -15,7 +15,7 @@ to initialise the project, and follow the prompts to play the guessing game.
 - Console.WriteLine()
 - Console.ReadLine()
 - Trim()
-- To.Lower()
+- ToLower()
 - int.Parse()
 - boolean values
 - operators (+ etc)
